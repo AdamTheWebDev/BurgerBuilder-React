@@ -1,3 +1,5 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "gitlens.currentLine.format": "${author}, ${agoOrDate} • ${message}",
+    "git.autofetch": true
 }
